@@ -1,5 +1,5 @@
 
-While still a work in progress, this repository is for my current project: a sentiment analysis paper based on the popular videogame *Detroit Become Human*.
+While still a work in progress, this repository is for my current project: a sentiment analysis paper based on the popular video game *Detroit Become Human*.
 
 This project seeks to determine whether specific words are linked to higher rates of choice clickthroughs throughout the game. It will draw from the publicly available global game statistics,
 calculated from 2018 and 2023 statistics. This will not only generate a significant body of data, but it will grant the means for comparison within data sets.
